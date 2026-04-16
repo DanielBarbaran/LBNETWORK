@@ -1,4 +1,4 @@
-## 📌 TRELLO
+## TRELLO
 Más info en [mi tablero de trello](https://trello.com/b/ZQ6N2ybV/lbnetwork)
 ![TRELLO](https://github.com/DanielBarbaran/LBNETWORK/blob/main/frontend/Captura12.PNG)
 
